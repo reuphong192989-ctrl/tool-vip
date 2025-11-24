@@ -1,0 +1,5 @@
+{
+  "name": "test Tool vip",
+  "description": "An AI-powered tool that analyzes a YouTube channel's style from a URL and reference image to generate new, original video scripts. It creates detailed scenes with consistent character prompts, motion graphics instructions, and sound design cues, tailored to a user-specified duration.",
+  "requestFramePermissions": []
+}
